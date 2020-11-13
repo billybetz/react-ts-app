@@ -1,0 +1,13 @@
+.profile {}
+
+.profile-title {}
+
+.profile-image {}
+
+.profile-image img {
+  border-radius: 50%;
+  width: auto; /* you can use % */
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
